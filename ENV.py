@@ -1,2 +1,0 @@
-TELEGRAM_BOT_TOKEN = "Input your bot token here. You can get your bot token from Bot Father. If you do not have a Telegram Bot yet, you can create one with Telegram Bot father.
-@https://telegram.me/BotFather"
